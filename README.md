@@ -1,5 +1,5 @@
-- 👋 Hola, Soy @Lyunxpotat
-- 👀 Soy un DEVOLOPER de bots de discord ( actualmente aprendiendo a configurar bots :D) 
+- 👋 Hola, Soy @koltovdev
+- 👀 Soy el creador de PostMan , Discord Bot
 
 <!---
 Lyunxpotat/Lyunxpotat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
